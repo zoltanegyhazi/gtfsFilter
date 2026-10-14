@@ -1,5 +1,12 @@
 # GtfsFilter – GTFS feed szűrése route_type alapján
 
+> **Mire való:** segédprogram az egyetemi házi feladatomhoz, amely az
+> [OpenMetroMaps](https://github.com/OpenMetroMaps/OpenMetroMaps) projektre
+> épül. Ezzel készül el a budapesti GTFS feedből az a szűrt zip (pl. csak a
+> metró), amiből a házi `gtfs-import` parancsa a térkép XML-jét generálja.
+> **Nem része a beadott házi feladatnak**, attól külön, önálló eszközként
+> készült.
+
 > **AI-használat:** a projekt AI (Claude) segítségével készült.
 >
 > **Saját munka:**
